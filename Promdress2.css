@@ -1,0 +1,35 @@
+/*
+*Mia Moretto
+Class work
+Css-template.css
+*/
+
+/* the universal selector */
+*{
+} 
+/* Body attributes here */
+
+
+body{ 
+Width:60%;   
+background-color: gray;
+Margin:auto;    
+} 
+
+h1{ 
+background-color:black; /* color for background*/ 
+color:aliceblue; /*color of text*/
+}
+
+
+p{ /*type selector for ALL paragraphs*/
+color: navy;    
+} 
+
+#redText{ /* use an id to change text to red*/
+color:red;
+}
+
+.greenText{ /*use a class to change different kinds of elements*/
+ color:green;   
+}
